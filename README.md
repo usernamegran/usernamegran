@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel;Desenvolvedor+Full+Stack;Entusiasta+Linux+%7C+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7¢er=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel;Desenvolvedor+Full+Stack;Entusiasta+PHP+e+tecnologias+de+IA)](https://git.io/typing-svg)
